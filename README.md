@@ -2,7 +2,7 @@
 
 **Context:**
 
-Assignment for S&DS 431 (Optimization and Computation)
+Assignment for AMTH 431 / S&DS 431 (Optimization and Computation)
 
 **Description:**
 
